@@ -31,7 +31,7 @@ The system allows admin users to manage blog posts easily (CRUD) with a modern a
 
 ## 🗂️ Project Structure
 
-simple-blog/ ├── config/ │ └── db.php ├── public/ │ ├── index.php │ ├── create.php │ ├── edit.php │ ├── delete.php │ ├── show.php │ ├── login.php │ ├── register.php │ ├── logout.php │ └── favicon.ico ├── sql/ │ └── blogdb.sql ├── style.css (optional) └── README.md
+ ```simple-blog/ ├── config/ │ └── db.php ├── public/ │ ├── index.php │ ├── create.php │ ├── edit.php │ ├── delete.php │ ├── show.php │ ├── login.php │ ├── register.php │ ├── logout.php │ └── favicon.ico ├── sql/ │ └── blogdb.sql ├── style.css (optional) └── README.md ```
 
 
 ---
