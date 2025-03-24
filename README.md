@@ -7,14 +7,14 @@ The system allows admin users to manage blog posts easily (CRUD) with a modern a
 ---
 
 ## 🚀 Features
-- Display all blog posts (with pagination & search)
+- Display all blog posts (with pagination & live search)
 - View a single post by ID
 - Create a new post
 - Edit existing posts
 - Delete posts
-- Admin login/logout system
-- Toastr notifications
-- Responsive UI with Bootstrap 5
+- Admin login/register/logout system
+- Toastr notifications for actions
+- Responsive modern UI (2025 design)
 
 ---
 
@@ -48,11 +48,18 @@ simple-blog/ ├── config/ │ └── db.php ├── public/ │ ├─
 
 ---
 
+## 👤 Admin Access
+
+- Register new admin:  
+  `http://localhost/simple-blog/public/register.php`
+
+- Login page:  
+  `http://localhost/simple-blog/public/login.php`
 
 ---
 
 ## 📄 Author
 
-Developed by Amal Hamdi Abd-ElRazeq  
-Course Task: Simple Blog System using PHP Native  
-Date: 24 March 2025
+Developed by **Amal Hamdi Abd-ElRazeq**  
+**Course Task**: Simple Blog System using PHP Native  
+**Date**: 24 March 2025
